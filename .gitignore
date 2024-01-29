@@ -1,0 +1,10 @@
+/env
+/data
+/started
+/logs
+/models
+/.ipynb_checkpoints
+.DS_Store
+*.jpg
+
+!image_1.jpg
